@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wondermovies/static/css/main.334bdeb1.css",
+    "main.js": "/wondermovies/static/js/main.a7f0e784.js",
+    "index.html": "/wondermovies/index.html",
+    "static/media/search.svg": "/wondermovies/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/wondermovies/static/css/main.334bdeb1.css.map",
+    "main.a7f0e784.js.map": "/wondermovies/static/js/main.a7f0e784.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.a7f0e784.js"
+  ]
+}
